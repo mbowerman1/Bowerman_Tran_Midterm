@@ -5,7 +5,7 @@
 
 We, as Hopkins students, are also part of the Baltimore community. Therefore, we are always interested in seeing what and why the city is lacking, as well as any positive developments and potential improvements. Combining that outlook with our interest in equity, we want to explore the business/entrepeneurial landscape of Baltimore city, specifically for groups that are perhaps overlooked or undersupported in their endeavors: women and people of color. In this project, we are studying Baltimorean businesses owned/ran by people of these demographics in order to potentially make out any business trends or growth opportunities, and to determine where any funding or support should be allocated. Additionally, we are comparing our findings to another city with approximately the same population and demographic breakdown, [INSERT CITY HERE], to see if the issues and trends we detected are also present.
 
-[INSERT BRIEF CONCLUSION OF FINDINGS HERE]
+[INSERT BRIEF CONCLUSION OF FINDINGS AND VISUALIZATIONS HERE]
 
 
 ## Data and Information Sources
