@@ -15,6 +15,13 @@ We, as Hopkins students, are also part of the Baltimore community. Therefore, we
 3) The general demographic data for all cities from 2012 was found using the [U.S. Census FactFinder portal](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml/ "American FactFinder"). After March 31, 2020, available [here](https://data.census.gov/cedsci/ "Census Data").
 4) The general demographic data for all cities from 2020 was found [INSERT SOURCE HERE].
 
+## Data Questions
+
+1) What percentage of the city government's contracts are awarded to Minority and Women Business Enterprise-Certified companies?
+2) Is this percentage reflective of city demographics and business ownership as a whole?
+3) What are some interesting trends in city contracts and MBE/WBE-certified companies?
+4) Can the data from both Baltimore and other cities be used to create a benchmark for the city government's contract diversity today?
+
 ## Data Analysis
 
 We will look at:
