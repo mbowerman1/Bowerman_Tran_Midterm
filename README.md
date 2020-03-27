@@ -12,7 +12,8 @@ We, as Hopkins students, are also part of the Baltimore community. Therefore, we
 
 1) The minority and women's business data for Baltimore from 2013 was found using the [Open Baltimore data portal](https://data.baltimorecity.gov/ "Open Baltimore").
 2) The minority and women's business data for New York City from 2020 was found using the [NYC Open Data portal](https://opendata.cityofnewyork.us/ "NYC Open Data").
-3) The general demographic data for all cities was found using the [U.S. Census FactFinder portal](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml/ "American FactFinder"). After March 31, 2020, available [here](https://data.census.gov/cedsci/ "Census Data").
+3) The general demographic data for all cities from 2012 was found using the [U.S. Census FactFinder portal](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml/ "American FactFinder"). After March 31, 2020, available [here](https://data.census.gov/cedsci/ "Census Data").
+4) The general demographic data for all cities from 2020 was found [INSERT SOURCE HERE].
 
 ## Data Analysis
 
