@@ -17,7 +17,7 @@ We, as Hopkins students, are also part of the Baltimore community. Therefore, we
 
 ## Data Questions
 
-1) What percentage of the city government's contracts are awarded to Minority and Women Business Enterprise-Certified companies?
+1) What percentage of the city government's contracts are awarded to Minority and Women's Business Enterprise-Certified companies?
 2) Is this percentage reflective of city demographics and business ownership as a whole?
 3) What are some interesting trends in city contracts and MBE/WBE-certified companies?
 4) Can the data from both Baltimore and other cities be used to create a benchmark for the city government's contract diversity today?
