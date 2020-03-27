@@ -14,6 +14,7 @@ We, as Hopkins students, are also part of the Baltimore community. Therefore, we
 2) The minority and women's business certifications and city contract awards data for New York City from 2020 was found using the [NYC Open Data portal](https://opendata.cityofnewyork.us/ "NYC Open Data").
 3) The general demographic data for all cities from 2012 was found using the [U.S. Census FactFinder portal](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml/ "American FactFinder"). After March 31, 2020, available [here](https://data.census.gov/cedsci/ "Census Data").
 4) The general demographic data for all cities from 2020 was found [INSERT SOURCE HERE].
+5) The general demographic data for Baltimore City (updated 2019) was found using the [U.S. Census FactFinder portal](https://www.census.gov/quickfacts/fact/table/baltimorecitymaryland,US/PST045219/).
 
 ## Data Questions
 
@@ -35,7 +36,7 @@ We will look at:
 
 The following methods and commands were used:
 
-1) 
+1) Used PivotTables to isolate data and sort entries into respective demographics. Made charts to spot trends and differences.
 2)
 3)
 
