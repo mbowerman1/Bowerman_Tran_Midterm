@@ -15,6 +15,7 @@ We, as Hopkins students, are also part of the Baltimore community. Therefore, we
 3) The general demographic data for all cities from 2012 was found using the [U.S. Census FactFinder portal](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml/ "American FactFinder"). After March 31, 2020, available [here](https://data.census.gov/cedsci/ "Census Data").
 4) The general demographic data for all cities from 2020 was found [INSERT SOURCE HERE].
 5) The general demographic data for Baltimore City (updated 2019) was found using the [U.S. Census FactFinder portal](https://www.census.gov/quickfacts/fact/table/baltimorecitymaryland,US/PST045219/).
+6) The FY19 Minority & Women Owned Business (MWBE) Spend Report was found using the [Memphis Data Hub](https://data.memphistn.gov/browse?q=women&sortBy=relevance).
 
 ## Data Questions
 
