@@ -24,12 +24,14 @@ Here we see that the traditionally underrepresented groups in professional servi
 ### M/WBE breakdown, 2012
 ![](Images/Balt_Cert_Distr.PNG)
 
+38.85% of certificates awarded in Baltimore are classified as WBE, compared to 52.61% of Baltimore businesses which are female-owned, indicating some disparity.
+
 ### Baltimore business owner race and gender demographics, 2012
 ![](Images/Balt_Census_2012_Race.PNG)
 
 ![](Images/Balt_Census_2012_Gender.PNG)
 
-Here we see that representation in business ownership is consistent with population demographics. The data suggests that there is no gender imbalance.
+Here we see that representation in business ownership is consistent with population demographics. The data suggests that there is no gender imbalance in actual business ownership.
 
 ## New York Findings
 ### M/WBE breakdown, 2020
@@ -45,7 +47,7 @@ Similar to Baltimore, New York's largest MBE subgroup is black males at 18.11%. 
 
 ![](Images/NYC_Census_2012_Gender.PNG)
 
-Here we see that white business owner's make up 55.07% of New York business owners, while non-MBE certificates make up for about 57.61% of city government contracts, indicating that the demographics of city contracts are fairly reflective of those of business owners. However, women constitute 43.54% of business owners identifiable by gender, but only 21.17% of city contracts are WBE-certified, indicating a lack of representation of female business owners in city contracts.
+Here we see that white business owner's make up 55.07% of New York business owners, while non-MBE certificates make up for about 57.61% of city government contracts, indicating that the demographics of city contracts are fairly reflective of those of business owners. However, women constitute 43.54% of business owners, but only 21.17% of city contracts are WBE-certified, indicating a lack of representation of female business owners in city contracts.
 
 ## Memphis Findings
 ### Memphis business owner race and gender demographics, 2012
