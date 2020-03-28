@@ -9,12 +9,12 @@ We, as Hopkins students, are also part of the Baltimore community. We are always
 ### Certificate distribution by business owner's race and service category in Baltimore
 ![](Images/contr_dist_byrace_balt.png)
 
-Construction companies made up the bulk of the certificates outstanding in 2012, at PERCENTAGE, with Professional Services and Services coming at second and third at PERCENTAGE and PERCENTAGE, respectively.
+Construction companies made up the bulk of active certificates in 2012, at 38.53%, with Professional Services and Services coming at second and third at 32.43% and 23.65%, respectively.
 
 ### Certificate distribution by business owner's race and gender in Baltimore
 ![](Images/Balt_Contr_Distr_Race_Gender.PNG)
 
-We found that African American men made up the largest MBE subgroup at PERCENTAGE, while white women made up the largest WBE subgroup at PERCENTAGE. African American women made up the second largest subgroup for either category, at PERCENTAGE.
+We found that African American men made up the largest MBE subgroup at 44.52% of total certificates, while white women made up the largest WBE subgroup at 23.43%. African American women made up the second largest subgroup for either category, at 14.82%.
 
 ### Certificate service category breakdown by gender and race in Baltimore
 ![](Images/Balt_Contr_Ctgy_Breakdown_Race_Gender.PNG)
@@ -22,7 +22,7 @@ We found that African American men made up the largest MBE subgroup at PERCENTAG
 Here we see that the traditionally underrepresented groups in professional services are still underrepresented here, with the exception being the Female African American subset.
 
 ### M/WBE breakdown, 2012
-![](Images/)
+![](Images/Balt_Cert_Distr.PNG)
 
 ### Baltimore business owner race and gender demographics, 2012
 ![](Images/Balt_Census_2012_Race.PNG)
@@ -37,14 +37,15 @@ Here we see that representation in business ownership is consistent with populat
 
 ![](Images/NYC_Cert_Distr_Race_Gender.PNG)
 
-Compare to Baltimore
+Like Baltimore, New York awards significantly more MBE certificates than any other type, at 45.06% of total active certifications in 2020 (68.28% including overlap with WBE) and 38.80% of total city contracts awarded between 2003-2020 (42.38% including overlap).
+Similar to Baltimore, New York's largest MBE subgroup is black males at 18.11%. However, unlike Baltimore, New York's largest WBE subgroup is white women at 31.59% and then black women at 11.78%. Asian men are the second largest MBE subgroup at 15.46%.
 
 ### New York City business owner race and gender demographics, 2012
 ![](Images/NYC_Census_2012_Race.PNG)
 
 ![](Images/NYC_Census_2012_Gender.PNG)
 
-Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Commentary and compare to Baltimore
+Here we see that white business owner's make up 55.07% of New York business owners, while non-MBE certificates make up for about 57.61% of city government contracts, indicating that the demographics of city contracts are fairly reflective of those of business owners. However, women constitute 43.54% of business owners identifiable by gender, but only 21.17% of city contracts are WBE-certified, indicating a lack of representation of female business owners in city contracts.
 
 ## Memphis Findings
 ### Memphis business owner race and gender demographics, 2012
