@@ -39,5 +39,5 @@ The following methods and commands were used:
 
 1) Used PivotTables to isolate data and sort entries into respective demographics. Made charts to spot trends and differences.
 2) Used IF statements, VLOOKUP, and the Text to Columnn function to organize the datasets.
-3)
+3) Used Excel's mathematical functions to calculate sums and percentages after refining original data
 
