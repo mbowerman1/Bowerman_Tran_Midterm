@@ -22,7 +22,7 @@ We found that African American men made up the largest MBE subgroup at PERCENTAG
 Insert findings/commentary here
 
 ### M/WBE breakdown, 2012
-![](Images/)
+![](Images/Balt_Cert_Distr.PNG)
 
 ### Baltimore business owner race and gender demographics, 2012
 ![](Images/Balt_Census_2012_Race.PNG)
@@ -37,7 +37,7 @@ Insert images of census race and gender business ownership breakdowns and M/WBE 
 
 ![](Images/NYC_Cert_Distr_Race_Gender.PNG)
 
-Compare to Baltimore
+
 
 ### New York City business owner race and gender demographics, 2012
 ![](Images/NYC_Census_2012_Race.PNG)
