@@ -8,14 +8,17 @@ We, as Hopkins students, are also part of the Baltimore community. We are always
 ## Baltimore Findings
 ### Certificate distribution by business owner's race and service category in Baltimore
 ![](Images/contr_dist_byrace_balt.png)
+
 Construction companies made up the bulk of the certificates outstanding in 2012, at PERCENTAGE, with Professional Services and Services coming at second and third at PERCENTAGE and PERCENTAGE, respectively.
 
 ### Certificate distribution by business owner's race and gender in Baltimore
 ![](Images/Balt_Contr_Distr_Race_Gender.PNG)
+
 We found that African American men made up the largest MBE subgroup, while white women made up the largest WBE subgroup. African American women made up the second largest subgroup for either category.
 
 ### Certificate service category breakdown by gender and race in Baltimore
 ![](Images/Balt_Contr_Ctgy_Breakdown_Race_Gender.PNG)
+
 Insert findings/commentary here
 
 ## New York Findings
