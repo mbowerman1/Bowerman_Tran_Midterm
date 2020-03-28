@@ -14,8 +14,7 @@ We, as Hopkins students, are also part of the Baltimore community. We are always
 ### Contract service category breakdown by gender and race in Baltimore
 ![](Images/Balt_Contr_Ctgy_Breakdown_Race_Gender.PNG)
 
-Through this study, we found that
-
+Through this study, we found that African American men made up the largest MBE subgroup, while white women made up the largest WBE subgroup. African American women made up the second largest subgroup for either category.
 
 ## Data and Information Sources
 
