@@ -25,22 +25,24 @@ Insert findings/commentary here
 ![](Images/)
 
 ### Baltimore business owner race and gender demographics, 2012
-![](Images/)
+![](Images/Balt_Census_2012_Race.PNG)
 
-![](Images/)
+![](Images/Balt_Census_2012_Gender.PNG)
 
 Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Compare and commentary
 
 ## New York Findings
 ### M/WBE breakdown, 2020
-![](Images/)
+![](Images/NYC_Contr_Distr_MWBE.PNG)
+
+![](Images/NYC_Cert_Distr_Race_Gender.PNG)
 
 Compare to Baltimore
 
 ### New York City business owner race and gender demographics, 2012
-![](Images/)
+![](Images/NYC_Census_2012_Race.PNG)
 
-![](Images/)
+![](Images/NYC_Census_2012_Gender.PNG)
 
 Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Commentary and compare to Baltimore
 
@@ -52,6 +54,8 @@ Compare to Baltimore
 
 ### Memphis business owner race and gender demographics, 2012
 ![](Images/business_ownership_byrace_mem.png)
+
+![](Images/Memphis_Census_2012_Gender.PNG)
 
 ![](Images/cityspending_mem.png)
 
