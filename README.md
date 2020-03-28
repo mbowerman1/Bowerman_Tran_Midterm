@@ -19,17 +19,17 @@ We found that African American men made up the largest MBE subgroup at PERCENTAG
 ### Certificate service category breakdown by gender and race in Baltimore
 ![](Images/Balt_Contr_Ctgy_Breakdown_Race_Gender.PNG)
 
-Insert findings/commentary here
+Here we see that the traditionally underrepresented groups in professional services are still underrepresented here, with the exception being the Female African American subset.
 
 ### M/WBE breakdown, 2012
-![](Images/Balt_Cert_Distr.PNG)
+![](Images/)
 
 ### Baltimore business owner race and gender demographics, 2012
 ![](Images/Balt_Census_2012_Race.PNG)
 
 ![](Images/Balt_Census_2012_Gender.PNG)
 
-Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Compare and commentary
+Here we see that representation in business ownership is consistent with population demographics. The data suggests that there is no gender imbalance.
 
 ## New York Findings
 ### M/WBE breakdown, 2020
@@ -37,7 +37,7 @@ Insert images of census race and gender business ownership breakdowns and M/WBE 
 
 ![](Images/NYC_Cert_Distr_Race_Gender.PNG)
 
-
+Compare to Baltimore
 
 ### New York City business owner race and gender demographics, 2012
 ![](Images/NYC_Census_2012_Race.PNG)
