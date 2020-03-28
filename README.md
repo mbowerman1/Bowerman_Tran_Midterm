@@ -14,16 +14,48 @@ Construction companies made up the bulk of the certificates outstanding in 2012,
 ### Certificate distribution by business owner's race and gender in Baltimore
 ![](Images/Balt_Contr_Distr_Race_Gender.PNG)
 
-We found that African American men made up the largest MBE subgroup, while white women made up the largest WBE subgroup. African American women made up the second largest subgroup for either category.
+We found that African American men made up the largest MBE subgroup at PERCENTAGE, while white women made up the largest WBE subgroup at PERCENTAGE. African American women made up the second largest subgroup for either category, at PERCENTAGE.
 
 ### Certificate service category breakdown by gender and race in Baltimore
 ![](Images/Balt_Contr_Ctgy_Breakdown_Race_Gender.PNG)
 
 Insert findings/commentary here
 
+### M/WBE breakdown, 2012
+![](Images/)
+
+### Baltimore business owner race and gender demographics, 2012
+![](Images/)
+
+![](Images/)
+
+Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Compare and commentary
+
 ## New York Findings
+### M/WBE breakdown, 2020
+![](Images/)
+
+Compare to Baltimore
+
+### New York City business owner race and gender demographics, 2012
+![](Images/)
+
+![](Images/)
+
+Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Commentary and compare to Baltimore
 
 ## Memphis Findings
+### M/WBE breakdown, YEAR
+![](Images/)
+
+Compare to Baltimore
+
+### Memphis business owner race and gender demographics, 2012
+![](Images/)
+
+![](Images/)
+
+Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Commentary and compare to Baltimore
 
 ## Data and Information Sources
 
