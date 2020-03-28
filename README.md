@@ -5,16 +5,22 @@
 
 We, as Hopkins students, are also part of the Baltimore community. We are always interested in seeing what and why the city is lacking, as well as any positive developments and potential improvements. Combining that outlook with our interest in equity, we want to explore the business/entrepeneurial landscape of Baltimore city, specifically for groups that are perhaps overlooked or undersupported in their endeavors: women and minorities. In this project, we are studying women- and minority-owned Baltimore businesses contracted by the city government in order to comment on how city government funding and support has been allocated. Above all, we want to discover if these contract percentages are reflective of both business ownership and resident demographics. Additionally, we are comparing our findings to government contracts for women- and minority-owned businesses in New York City and Memphis, to see if the issues and trends we detected are also present.
 
-### Contract distribution by business owner's race and service category in Baltimore
+## Baltimore Findings
+### Certificate distribution by business owner's race and service category in Baltimore
 ![](Images/contr_dist_byrace_balt.png)
+Construction companies made up the bulk of the certificates outstanding in 2012, at PERCENTAGE, with Professional Services and Services coming at second and third at PERCENTAGE and PERCENTAGE, respectively.
 
-### Contract distribution by business owner's race and gender in Baltimore
+### Certificate distribution by business owner's race and gender in Baltimore
 ![](Images/Balt_Contr_Distr_Race_Gender.PNG)
+We found that African American men made up the largest MBE subgroup, while white women made up the largest WBE subgroup. African American women made up the second largest subgroup for either category.
 
-### Contract service category breakdown by gender and race in Baltimore
+### Certificate service category breakdown by gender and race in Baltimore
 ![](Images/Balt_Contr_Ctgy_Breakdown_Race_Gender.PNG)
+Insert findings/commentary here
 
-Through this study, we found that African American men made up the largest MBE subgroup, while white women made up the largest WBE subgroup. African American women made up the second largest subgroup for either category.
+## New York Findings
+
+## Memphis Findings
 
 ## Data and Information Sources
 
