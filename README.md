@@ -5,7 +5,7 @@
 
 We, as Hopkins students, are also part of the Baltimore community. We are always interested in seeing what and why the city is lacking, as well as any positive developments and potential improvements. Combining that outlook with our interest in equity, we want to explore the business/entrepeneurial landscape of Baltimore city, specifically for groups that are perhaps overlooked or undersupported in their endeavors: women and minorities. In this project, we are studying women- and minority-owned Baltimore businesses contracted by the city government in order to comment on how city government funding and support has been allocated. Above all, we want to discover if these contract percentages are reflective of both business ownership and resident demographics. Additionally, we are comparing our findings to government contracts for women- and minority-owned businesses in New York City and Memphis, to see if the issues and trends we detected are also present.
 
-![alt text](https://github.com/mbowerman1/Bowerman_Tran_Midterm/blob/master/contr_dist_byrace_balt.png "Graph showing contract distribution by business owner's race in Baltimore")
+![alt text](https://github.com/mbowerman1/Bowerman_Tran_Midterm/blob/master/Images/contr_dist_byrace_balt.png "Graph showing contract distribution by business owner's race in Baltimore")
 
 Through this study, we found that
 
