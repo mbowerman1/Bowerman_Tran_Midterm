@@ -47,16 +47,12 @@ Compare to Baltimore
 Insert images of census race and gender business ownership breakdowns and M/WBE breakdown; Commentary and compare to Baltimore
 
 ## Memphis Findings
-### M/WBE breakdown, YEAR
-![](Images/)
-
-Compare to Baltimore
-
 ### Memphis business owner race and gender demographics, 2012
 ![](Images/business_ownership_byrace_mem.png)
 
 ![](Images/Memphis_Census_2012_Gender.PNG)
 
+### M/WBE breakdown, 2019
 ![](Images/cityspending_mem.png)
 
 Here we see Memphis' population demographics (above) and the city's spending on businesses of various fields (below). While the city has a similar population demographic to Baltimore, its MWBE does not receive the same level of support. 
